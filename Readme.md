@@ -5,7 +5,7 @@ NPM: 2306210784
 
 ## 🧾 Deskripsi Program
 
-Program ini mensimulasikan respons arus dan muatan listrik \( q(t) \) pada rangkaian RLC seri yang diberi eksitasi tegangan sinusoidal. Penyelesaian dilakukan dengan metode numerik **Euler**, dan hasilnya dibandingkan dengan **solusi analitik** yang tersedia dalam buku _Chapman_ s(Persamaan 28.11). Perbandingan antara kedua solusi ditampilkan dalam bentuk tabel dan grafik untuk menilai akurasi numerik.
+Program ini mensimulasikan respons arus dan muatan listrik \( q(t) \) pada rangkaian RLC seri yang diberi eksitasi tegangan sinusoidal. Penyelesaian dilakukan dengan metode numerik **Euler**, dan hasilnya dibandingkan dengan **solusi analitik** yang tersedia dalam buku _Chapman_ (Persamaan 28.11). Perbandingan antara kedua solusi ditampilkan dalam bentuk tabel untuk menilai akurasi numerik.
 
 Program ditulis menggunakan bahasa **C** dan menghasilkan output berupa:
 
